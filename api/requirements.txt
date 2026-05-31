@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+motor
+pydantic
+mangum
+httpx
+python-dotenv
+pymongo
+python-jose[cryptography]
